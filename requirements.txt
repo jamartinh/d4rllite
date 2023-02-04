@@ -1,0 +1,6 @@
+h5py
+numpy
+requests
+urllib3
+tqdm
+setuptools
